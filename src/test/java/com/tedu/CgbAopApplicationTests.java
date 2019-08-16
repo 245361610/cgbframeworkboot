@@ -15,6 +15,7 @@ public class CgbAopApplicationTests {
     public void contextLoads() {
         serchService.doTest("1skdjf");
         System.out.println("ceshi");
+        System.out.println("scdcafsdfasdf");
     }
 
 }
